@@ -15,6 +15,12 @@ const projectsData = [
     imgSrc: '/static/images/time-machine.jpg',
     href: '/blog/the-time-machine',
   },
+  {
+    title: 'Time',
+    description: `Test`,
+    // imgSrc: '/static/images/time-machine.jpg',
+    // href: '/blog/the-time-machine',
+  },
 ]
 
 export default projectsData
