@@ -1,22 +1,22 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'YK English Post',
+  title: "YK's Digital Odyssey",
+  headerTitle: "YK's Digital Odyssey",
+  description: 'Path in Tech and English',
   author: 'YukiOnodera',
-  headerTitle: 'YKEnglishPost',
-  description: 'A blog written by YukiOnodera',
   language: 'ja',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   // siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
   github: 'https://github.com/YukiOnodera',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  // mastodon: 'https://mastodon.social/@mastodonuser',
+  // email: 'address@yoursite.com',
+  // twitter: 'https://twitter.com/Twitter',
+  // facebook: 'https://facebook.com',
+  // youtube: 'https://youtube.com',
+  // linkedin: 'https://www.linkedin.com',
   locale: 'ja',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
