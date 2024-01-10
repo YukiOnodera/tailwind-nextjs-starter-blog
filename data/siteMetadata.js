@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: "YK's Digital Odyssey",
   headerTitle: "YK's Digital Odyssey",
-  description: 'Path in Tech and English',
+  description: 'Path in Tech and English.',
   author: 'YukiOnodera',
   language: 'ja',
   theme: 'system', // system, dark or light
