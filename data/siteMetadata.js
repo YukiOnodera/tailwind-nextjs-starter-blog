@@ -6,8 +6,7 @@ const siteMetadata = {
   author: 'YukiOnodera',
   language: 'ja',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  // socialBanner: '/static/images/twitter-card.png',
+  siteUrl: 'https://yukionodera.tokyo/',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/logo.png',
   github: 'https://github.com/YukiOnodera',
