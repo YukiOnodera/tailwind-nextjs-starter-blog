@@ -8,7 +8,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://yukionodera.tokyo/',
   siteLogo: '/static/images/logo.png',
-  socialBanner: '/static/images/logo.png',
+  socialBanner: '/static/images/og_image.png',
   github: 'https://github.com/YukiOnodera',
   // mastodon: 'https://mastodon.social/@mastodonuser',
   // email: 'address@yoursite.com',
