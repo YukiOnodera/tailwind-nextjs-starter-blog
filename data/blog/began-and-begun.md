@@ -1,14 +1,15 @@
 ---
 title: began and begun
-date: 2024-01-13
+yaml_title: began-and-begun
+created: 2024-01-11 19:49:14
+updated: 2024-01-12 16:19:38
 tags:
   - english
   - tips
+aliases: 
+date: 2024-01-13
 draft: false
 summary: began and begun, past and past participle の見分け方
-yaml_title: began and begun
-created: 2024-01-11 19:49:14
-updated: 2024-01-12 15:39:21
 type: Blog
 ---
 # 概要

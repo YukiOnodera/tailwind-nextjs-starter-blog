@@ -1,14 +1,14 @@
 ---
 title: I cleaned up the code in the file
-date: 2024-01-12
+yaml_title: I-cleaned-up-the-code-in-the-file
+created: 2024-01-11 19:49:14
+updated: 2024-01-12 16:19:30
 tags:
   - english
+aliases: 
+date: 2024-01-12
 draft: false
 summary: ファイル内のコードを整理したことを伝える方法
-yaml_title: I cleaned up the code in the file
-created: 2024-01-11 19:49:14
-updated: 2024-01-12 15:43:49
-aliases: 
 type: Blog
 ---
 # 表現方法

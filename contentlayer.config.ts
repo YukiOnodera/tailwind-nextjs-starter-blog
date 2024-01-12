@@ -134,6 +134,7 @@ export const Authors = defineDocumentType(() => ({
 
 export default makeSource({
   contentDirPath: 'data',
+  contentDirExclude: ['blog/.obsidian', 'blog/Templater'],
   documentTypes: [Blog, Authors],
   mdx: {
     cwd: process.cwd(),
