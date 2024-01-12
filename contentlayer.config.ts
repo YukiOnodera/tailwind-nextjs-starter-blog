@@ -77,7 +77,7 @@ function createSearchIndex(allBlogs) {
 
 export const Blog = defineDocumentType(() => ({
   name: 'Blog',
-  filePathPattern: 'blog/**/*.mdx',
+  filePathPattern: 'blog/posts/**/*.mdx',
   contentType: 'mdx',
   fields: {
     title: { type: 'string', required: true },
@@ -91,6 +91,10 @@ export const Blog = defineDocumentType(() => ({
     layout: { type: 'string' },
     bibliography: { type: 'string' },
     canonicalUrl: { type: 'string' },
+    created: { type: 'string' },
+    updated: { type: 'string' },
+    yaml_title: { type: 'string' },
+    aliases: { type: 'string' },
   },
   computedFields: {
     ...computedFields,
