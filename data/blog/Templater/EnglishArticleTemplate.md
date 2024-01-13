@@ -1,12 +1,15 @@
 ---
-created: 2024-01-11 19:49:14
-updated: 2024-01-11 19:49:51
-title: EnglishArticleTemplate
-date: ""
 tags:
-  - english
+  - daily
+  - <%tp.date.now("YYYY-MM")%>
+  - Y<%tp.date.now("YYYY")%>-W<%tp.date.now("ww")%>
+  - W<%tp.date.now("ww")%>
+  - <%tp.date.now("dddd")%>
+title: EnglishArticleTemplate
+date: 
 draft: true
 summary: 
 type: Blog
 ---
+
 # 表現方法
