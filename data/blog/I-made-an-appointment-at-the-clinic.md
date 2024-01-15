@@ -34,6 +34,7 @@ The word ENT stands for ear, nose, and throat.
 今日の 1 日を振り返ったときに、皮膚科や耳鼻咽喉科に行ったことを表現する場合は、
 
 **I went to the dermatology clinic and the ENT clinic.**
+
 Because I need to get a prescription for my pollen allergy.
 
 と表現すると伝わるでしょう！
