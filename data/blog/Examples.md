@@ -13,7 +13,7 @@ authors:
   - default
 canonicalUrl: 
 images: []
-lastmod: 2024-01-14
+lastmod: 2024-01-16
 layout: 
 type: Blog
 ---
@@ -59,3 +59,9 @@ This is sample code.
   </div>
 </div>
 ```
+
+## Images
+
+![Toronto](/static/images/canada/toronto.jpg)
+
+![[/static/images/obsidian/c1905fd46606db48e3f0f06dca96a6e9_MD5.png]]

@@ -20,10 +20,12 @@ type: Blog
 ---
 
 # 概要
+
 Modal words とは、modal verbs として知られる言葉で、**話し手の気持ちを伝える助動詞**のこと。
+
 現実そのものではなく、**頭の中で考えたことを表現する**時に使う助動詞。
 
-# Modal verbs 
+# Modal Verbs
 - can
 - could
 - may
