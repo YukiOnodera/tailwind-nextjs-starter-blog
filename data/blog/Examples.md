@@ -65,3 +65,14 @@ This is sample code.
 ![Toronto](/static/images/canada/toronto.jpg)
 
 ![[/static/images/obsidian/c1905fd46606db48e3f0f06dca96a6e9_MD5.png]]
+
+## Syntax highlighting
+
+## footnotes
+
+Here is an Example[^1]. With some additional text.
+
+Ex.) `[^2]`[^2]
+
+[^1]: http://localhost:3000/blog/usage/github-markdown-guide
+[^2]: http://localhost:3000/blog/usage/github-markdown-guide
