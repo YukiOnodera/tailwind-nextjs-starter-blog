@@ -1,20 +1,20 @@
 ---
 title: Examples
-yaml_title: Examples
+date: 2024-11-28
 tags:
   - 2024-01
   - Y2024-W03
   - 日曜日
   - english
+draft: true
+summary: TestPostTestPostTestPostTestPost
+yaml_title: Examples
 authors:
   - default
 canonicalUrl: 
-date: 2024-11-28
-draft: true
 images: 
 lastmod: 2024-01-17
 layout: 
-summary: TestPostTestPostTestPostTestPost
 type: Blog
 ---
 
