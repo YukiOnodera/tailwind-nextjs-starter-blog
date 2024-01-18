@@ -1,19 +1,17 @@
 ---
 title: I made an appointment at the clinic.
-yaml_title: I-made-an-appointment-at-the-clinic
-created: 2024-01-15 16:37:49
-updated: 2024-01-15 16:38:59
+date: 2024-01-15
 tags:
   - daily
   - 2024-01
   - Y2024-W03
   - W03
   - 月曜日
-aliases: 
-date: 2024-01-15
 draft: true
-lastmod: 2024-01-15
 summary: 
+yaml_title: I-made-an-appointment-at-the-clinic
+aliases: 
+lastmod: 2024-01-18
 type: Blog
 ---
 # 表現方法

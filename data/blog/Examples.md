@@ -13,7 +13,7 @@ authors:
   - default
 canonicalUrl: 
 images: 
-lastmod: 2024-01-17
+lastmod: 2024-01-18
 layout: 
 type: Blog
 ---
@@ -127,6 +127,26 @@ $$
 \end{array}\right]
 $$
 
-# Next
+# このテンプレートの説明
 
 http://localhost:3000/blog/usage/introducing-tailwind-nextjs-starter-blog
+
+- v1 で追加された機能一覧
+	- http://localhost:3000/blog/usage/new-features-in-v1
+# Customization
+
+http://localhost:3000/blog/usage/new-features-in-v1
+
+## Theme Colors
+- theme の font などを変更する場合は、`tailwind.config.js` から Update
+- code block 内の Style 変更は、`prism.css` から Update
+
+## Xdm MDX Compiler
+
+mdx 内では、下記のような Component も直接利用が可能
+
+```jsx:example.mdx
+// Or import PageTitle from './components/PageTitle.js' if you are using js
+import PageTitle from './components/PageTitle.tsx'
+;<PageTitle> Using JSX components in MDX </PageTitle>
+```

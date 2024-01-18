@@ -6,8 +6,7 @@ tags:
 draft: false
 summary: the movie is engaging, the movie is exciting これらの文章の違いについて紹介します。
 yaml_title: engaging-and-exciting
-created: 2024-01-11 19:49:14
-updated: 2024-01-13 14:38:18
+lastmod: 2024-01-18
 type: Blog
 ---
 # 解説

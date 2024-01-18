@@ -6,8 +6,7 @@ tags:
 draft: false
 summary: applicable の意味と使い方を紹介します。
 yaml_title: what-is-applicable
-created: 2024-01-11 19:49:14
-updated: 2024-01-13 14:38:32
+lastmod: 2024-01-18
 type: Blog
 ---
 # 意味
