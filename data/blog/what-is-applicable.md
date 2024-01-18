@@ -1,12 +1,12 @@
 ---
 title: What does applicable mean?
-date: 2024-01-15
+yaml_title: what-is-applicable
 tags:
   - english
+date: 2024-01-15
 draft: false
-summary: applicable の意味と使い方を紹介します。
-yaml_title: what-is-applicable
 lastmod: 2024-01-18
+summary: applicable の意味と使い方を紹介します。
 type: Blog
 ---
 # 意味

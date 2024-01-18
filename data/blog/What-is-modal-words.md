@@ -1,21 +1,21 @@
 ---
 title: What is modal words?
-date: 2024-01-16
+yaml_title: What-is-modal-words
 tags:
   - 2024-01
   - Y2024-W03
   - 火曜日
   - english
-draft: true
-summary: Modal words とは、modal verbs として知られる言葉で、話し手の気持ちを伝える助動詞のこと。
-yaml_title: What-is-modal-words
 authors:
   - default
 canonicalUrl: 
+date: 2024-01-16
+draft: true
 images:
   - you-need-to-use-layout-PostBanner
-lastmod: 2024-01-16
+lastmod: 2024-01-18
 layout: PostLayout
+summary: Modal words とは、modal verbs として知られる言葉で、話し手の気持ちを伝える助動詞のこと。
 type: Blog
 ---
 
