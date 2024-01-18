@@ -7,7 +7,6 @@ tags:
 draft: false
 summary: began and begun, past and past participle の見分け方
 yaml_title: began-and-begun
-aliases: 
 lastmod: 2024-01-18
 type: Blog
 ---

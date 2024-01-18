@@ -1,20 +1,20 @@
 ---
 title: Examples
-date: 2024-11-28
+yaml_title: Examples
 tags:
   - 2024-01
   - Y2024-W03
   - 日曜日
   - english
-draft: true
-summary: TestPostTestPostTestPostTestPost
-yaml_title: Examples
 authors:
   - default
 canonicalUrl: 
+date: 2024-11-28
+draft: true
 images: 
 lastmod: 2024-01-18
 layout: 
+summary: TestPostTestPostTestPostTestPost
 type: Blog
 ---
 
@@ -142,7 +142,13 @@ http://localhost:3000/blog/usage/new-features-in-v1
 - code block 内の Style 変更は、`prism.css` から Update
 
 ## Xdm MDX Compiler
-
+### 3
+#### 4
+### 3
+#### 4
+#### 4
+#### 4
+##### 5
 mdx 内では、下記のような Component も直接利用が可能
 
 ```jsx:example.mdx
@@ -150,3 +156,10 @@ mdx 内では、下記のような Component も直接利用が可能
 import PageTitle from './components/PageTitle.tsx'
 ;<PageTitle> Using JSX components in MDX </PageTitle>
 ```
+
+## TOC
+You can create table of contents with mdx!
+```jsx:toc.mdx
+<TOCInline toc={props.toc} exclude="Overview" toHeading={5} asDisclosure />
+```
+<TOCInline toc={props.toc} exclude="Overview" toHeading={5} asDisclosure />

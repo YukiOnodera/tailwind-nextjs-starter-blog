@@ -10,7 +10,6 @@ tags:
 draft: true
 summary: 
 yaml_title: I-made-an-appointment-at-the-clinic
-aliases: 
 lastmod: 2024-01-18
 type: Blog
 ---
