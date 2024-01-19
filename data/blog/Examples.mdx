@@ -163,3 +163,34 @@ You can create table of contents with mdx!
 <TOCInline toc={props.toc} exclude="Overview" toHeading={5} asDisclosure />
 ```
 <TOCInline toc={props.toc} exclude="Overview" toHeading={5} asDisclosure />
+
+# Analytics
+You can configure analytics with `siteMetadata.js`.
+
+# Blog Comment System
+You can add blog comment system with giscus, utterances, disqus.
+
+# Show Hilighting and line numbers
+
+````md
+```js {1, 3-4} showLineNumbers
+...
+````
+
+By doing this,
+
+```js {1, 3-4} showLineNumbers
+var num1, num2, sum
+num1 = prompt('Enter first number')
+num2 = prompt('Enter second number')
+sum = parseInt(num1) + parseInt(num2) // "+" means "add"
+alert('Sum = ' + sum) // "+" means combine into a string
+```
+
+You can show highliting and line numbers.
+
+# Next
+
+- http://localhost:3000/blog/usage/release-of-tailwind-nextjs-starter-blog-v2.0#nextjs-app-directory-and-react-server-components
+- Analytics
+- Blog Comment System
