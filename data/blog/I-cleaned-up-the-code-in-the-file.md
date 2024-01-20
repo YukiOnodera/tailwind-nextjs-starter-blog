@@ -6,7 +6,7 @@ tags:
 draft: false
 summary: ファイル内のコードを整理したことを伝える方法
 yaml_title: I-cleaned-up-the-code-in-the-file
-lastmod: 2024-01-18
+lastmod: 2024-01-20
 type: Blog
 ---
 # 表現方法

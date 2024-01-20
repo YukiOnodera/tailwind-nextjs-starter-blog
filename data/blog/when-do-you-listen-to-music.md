@@ -1,21 +1,21 @@
 ---
 title: How to express the time when you listen to music.
-yaml_title: when-do-you-listen-to-music
+date: 2024-01-19
 tags:
   - 2024-01
   - Y2024-W03
   - 金曜日
   - english
+draft: false
+summary: I listen to music when I'm heading to work, during my work and also while working out.
+yaml_title: when-do-you-listen-to-music
 authors:
   - default
 canonicalUrl: 
-date: 2024-01-19
-draft: true
 images:
   - you-need-to-use-layout-PostBanner
-lastmod: 2024-01-19
+lastmod: 2024-01-20
 layout: PostLayout
-summary: I listen to music when I'm heading to work, during my work and also while working out.
 type: Blog
 ---
 # 表現方法
