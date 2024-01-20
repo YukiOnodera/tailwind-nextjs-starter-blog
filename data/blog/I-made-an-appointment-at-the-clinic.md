@@ -11,6 +11,7 @@ draft: false
 summary: 
 yaml_title: I-made-an-appointment-at-the-clinic
 lastmod: 2024-01-20
+type: Blog
 ---
 # 表現方法
 
