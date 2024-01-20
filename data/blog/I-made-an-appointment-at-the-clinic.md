@@ -7,11 +7,10 @@ tags:
   - Y2024-W03
   - W03
   - 月曜日
-draft: true
+draft: false
 summary: 
 yaml_title: I-made-an-appointment-at-the-clinic
-lastmod: 2024-01-18
-type: Blog
+lastmod: 2024-01-20
 ---
 # 表現方法
 

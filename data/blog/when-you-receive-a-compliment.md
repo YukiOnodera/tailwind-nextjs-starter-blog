@@ -6,7 +6,7 @@ tags:
   - Y2024-W03
   - 水曜日
   - english
-draft: true
+draft: false
 summary: 
 yaml_title: when-you-receive-a-compliment
 authors:
@@ -14,7 +14,7 @@ authors:
 canonicalUrl: 
 images:
   - you-need-to-use-layout-PostBanner
-lastmod: 2024-01-17
+lastmod: 2024-01-20
 layout: PostLayout
 type: Blog
 ---
