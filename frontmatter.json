@@ -6,7 +6,7 @@
     {
       "name": "default",
       "pageBundle": false,
-      "previewPath": null,
+      "previewPath": "/blog/",
       "template": "[[workspace]]/.frontmatter/templates/default.mdx",
       "fields": [
         {
