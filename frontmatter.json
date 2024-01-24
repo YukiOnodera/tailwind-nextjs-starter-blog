@@ -1,0 +1,104 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.defaultFileType": "mdx",
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "template": "[[workspace]]/.frontmatter/templates/default.mdx",
+      "fields": [
+        {
+        "title": "Title",
+        "name": "title",
+        "type": "string",
+        "default": "{{title}}"
+        },
+        {
+        "title": "YAML Title",
+        "name": "yaml_title",
+        "type": "string",
+        "default": "{{title}}"
+        },
+        {
+        "title": "tags",
+        "name": "tags",
+        "type": "tags",
+        "default":[]
+        },
+        {
+        "title": "authors",
+        "name": "authors",
+        "type": "tags",
+        "default":["default"]
+        },
+        {
+        "title": "canonicalUrl",
+        "name": "canonicalUrl",
+        "type": "string"
+        },
+        {
+        "title": "Publishing date",
+        "name": "date",
+        "type": "datetime",
+        "default": "{{now}}",
+        "isPublishDate": true
+        },
+        {
+        "title": "draft",
+        "name": "draft",
+        "type": "draft"
+        },
+        {
+        "title": "images",
+        "name": "images",
+        "type": "string",
+        "default": ""
+        },
+        {
+        "title": "Last modified date",
+        "name": "lastmod",
+        "type": "datetime",
+        "isModifiedDate": true
+        },
+        {
+        "title": "layout",
+        "name": "layout",
+        "type": "string",
+        "default": "PostLayout"
+        },
+        {
+        "title": "summary",
+        "name": "summary",
+        "type": "string",
+        "default": "default summary"
+        },
+        {
+        "title": "type",
+        "name": "type",
+        "type": "string",
+        "default": "Blog"
+        }
+    ]
+    }
+  ],
+  "frontMatter.framework.id": "next",
+  "frontMatter.content.publicFolder": "public",
+  "frontMatter.preview.host": "http://localhost:3000",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "blog",
+      "path": "[[workspace]]/data/blog"
+    }
+  ],
+  "frontMatter.framework.startCommand": "yarn dev",
+  "frontMatter.website.host": "https://yukionodera.tokyo/",
+  "frontMatter.taxonomy.dateFormat": "YYYY-MM-DD",
+  "frontMatter.taxonomy.seoContentLengh": -1,
+  "frontMatter.taxonomy.seoDescriptionField": "summary",
+  "frontMatter.taxonomy.seoDescriptionLength": -1,
+  "frontMatter.taxonomy.seoSlugLength": -1,
+  "frontMatter.taxonomy.seoTitleLength": -1,
+  "frontMatter.templates.enabled": true
+}
