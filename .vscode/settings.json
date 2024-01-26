@@ -12,6 +12,12 @@
       "strings": "off",
       "other": "off"
     },
-    "editor.minimap.enabled": false
-  }
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false,
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": true
+  },
+  "frontMatter.dashboard.openOnStart": false,
 }
