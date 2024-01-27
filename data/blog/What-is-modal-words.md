@@ -1,5 +1,5 @@
 ---
-title: What is modal words?
+title: What are modal words?
 date: 2024-01-16
 tags:
   - 2024-01
@@ -11,8 +11,8 @@ summary: Modal words とは、modal verbs として知られる言葉で、話�
 yaml_title: What-is-modal-words
 authors:
   - default
-canonicalUrl: 
-lastmod: 2024-01-20
+canonicalUrl: null
+lastmod: 2024-01-27
 layout: PostLayout
 type: Blog
 ---
@@ -24,6 +24,7 @@ Modal words とは、modal verbs として知られる言葉で、**話し手の
 現実そのものではなく、**頭の中で考えたことを表現する**時に使う助動詞。
 
 # Modal Verbs
+
 - can
 - could
 - may
