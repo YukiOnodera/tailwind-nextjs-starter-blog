@@ -25,5 +25,8 @@
   ],
   "files.associations": {
     "*.mdx": "markdown"
-  }
+  },
+  "markdownlint.config": {
+    "siblings_only": true
+}
 }
