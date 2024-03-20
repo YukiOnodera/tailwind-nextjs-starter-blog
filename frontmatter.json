@@ -84,7 +84,7 @@
     ]
     },
     {
-      "name": "expression",
+      "name": "Blog",
       "pageBundle": false,
       "previewPath": "/blog/",
       "template": "[[workspace]]/.frontmatter/templates/expression.mdx",
